@@ -1,4 +1,4 @@
-# co0844586aace78b17589f06a
+# Increment Counter from Scrimba Free JS Course
 
 ## About Scrimba
 
